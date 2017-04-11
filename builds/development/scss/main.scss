@@ -1,0 +1,18 @@
+/* CSS Structure
+  - Normalize
+	- Global Settings
+	- The Header
+	- The Search Box
+  - The Suggestions
+	- The History
+  - The Animations
+*/
+@import 'partials/variables';
+@import 'partials/normalize';
+@import 'partials/global';
+@import 'partials/header';
+@import 'partials/searchbox';
+@import 'partials/suggestions';
+@import 'partials/history';
+@import 'partials/animations';
+@import 'partials/media-queries';
